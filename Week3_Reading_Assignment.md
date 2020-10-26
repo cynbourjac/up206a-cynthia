@@ -1,0 +1,9 @@
+Geoff Boeing in his article, "Off the Grid and Back Again? The Recent Evolution of American Street Planning and Design" puts into perspective the importance 
+of street layouts and how they affect a city for decades. As an initial blueprint to the overall street design of a city, it is difficult to change the initial 
+grids of streets. Having little experience in understanding transportation planning, this article gave insight to grid like streets in accommodating pedestrians, 
+sustainable design, and more equitable streets. The introduction of cars and urban sprawl caused a decrease in the use of grid like streets and made public transportation more inaccessible. This perspective will be useful in our project because we will be looking at the effects of displacement in the South LA area that will be experiencing the expansion of the metro line. We will be able to use these findings to observe the types of streets in the area, how walkable they are, what other public transportation is around, and to better understand why that area is getting a metro line. 
+The introduction to OSMnx by Boeing demonstrates the adaptability of planning to modernize data. I particularly think that understanding political boundaries with 
+an overlay of the grids of the street maps will help us to better understand how the observed neighborhood in South LA will be affected and what political 
+interests lay in the area. Will the area have more gridlike streets that will increase walkability in the neighborhood or will people have to drive to the
+metro stop and therefore possibly increase traffic congestion and effect the neighbors directly? I also wonder what considerations have these studies done to 
+examine poverty levels in relation to grid like streets. Do lower income neighborhoods have more or less street grids and walkability? 
