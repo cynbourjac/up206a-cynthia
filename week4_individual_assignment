@@ -1,0 +1,8 @@
+I participated in the Day 2 Workshop Introduction to QGIS. I found the workshop to be very informative in understanding the levels of buffers that can be 
+created to analyze specific regions and variables. In this workshop, we had a practice scenario of mapping housing that was within 20 minutes of UCLA, rented 
+for less than $1300, and had two grocery stores within walking distance. It was insightful to learn the basics of uploading data and compiling them into QGIS 
+to create layered projections of different datasets. I was particularly impressed by how fast we were able to compile the data and even create buffer points of 
+the grocery stores in the area. This will be particularly useful in our research as we hope to be able to compile the locations of business closures and plot 
+where landlords in South LA (particularly the top 6) own property. We are also looking at eviction rates for the three areas in South LA and I can imagine 
+that using QGIS will help us to visualize the Laser Zone in South LA along with buffer points of business closures, new developments, and properties owned by
+the top 6 landlords. I would like to learn how to access QGIS through UCLA’s VPN as my computer was slow to keep up with the workshop. 
